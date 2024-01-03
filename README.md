@@ -18,7 +18,8 @@ This repository contains the implementation of an end-to-end Automatic Speech Re
 
 ## Usage
 Before running the code, ensure you download [train_json.zip](https://drive.google.com/file/d/1a-c48PQIbUO8BSRVzKnOmgSe5-yzx9xU/view?usp=drive_link), [checkpoints.zip](https://drive.google.com/file/d/1M74cCdRV3V7o1kIzdxTGDctlCpt5G-5C/view?usp=drive_link) and [fbank.zip](https://drive.google.com/file/d/1M74cCdRV3V7o1kIzdxTGDctlCpt5G-5C/view?usp=drive_link). Decompress them in the `exp/` folder. Make sure the code follows the following structure:
-```├── project/
+```
+├── project/
 │   ├── exp/
 │   │   ├── checkpoints/
 │   │   │   ├── folder named after timestamp
