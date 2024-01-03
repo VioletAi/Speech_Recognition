@@ -45,5 +45,3 @@ If you encounter any issues, please open an issue on the GitHub repository page 
 ## Authors
 - Weijia Ai
 
-## Acknowledgments
-Thanks to the authors and contributors of the tools and libraries used in this project.
